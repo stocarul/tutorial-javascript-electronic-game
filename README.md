@@ -69,5 +69,10 @@ To see the changes which between any two lessons use the git diff command.
 - Add the Plant element
 - Update the map
 
+### step-8: Add predators
+
+- Add the Tiger element that eats herbivore critters
+- Update the map
+
 [git-home]: http://git-scm.com
 [git-github]: http://help.github.com/set-up-git-redirect
