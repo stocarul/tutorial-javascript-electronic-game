@@ -74,5 +74,11 @@ To see the changes which between any two lessons use the git diff command.
 - Add the Tiger element that eats herbivore critters
 - Update the map
 
+### step-9: Develop like a pro
+
+- Add the `.editorconfig` file. You can read how to configure your favorite IDE
+to use it on [editorconfig.org][editorconfig-home].
+
 [git-home]: http://git-scm.com
 [git-github]: http://help.github.com/set-up-git-redirect
+[editorconfig-home]: http://editorconfig.org
